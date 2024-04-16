@@ -1,0 +1,37 @@
+div{
+    text-align: center;
+    color: red;
+    border-color: blue;
+    border-width: 5px;
+    margin-bottom: 15px;
+}
+#d0{
+    border:none;
+}
+#d1{
+    border-style:dotted;
+}
+#d2{
+    border-style: dashed;
+}
+#d3{
+    border-style: solid;
+}
+#d4{
+    border-style:double;
+}
+#d5{
+    border-style: groove;
+}
+#d6{
+    border-style:ridge;
+}
+#d7{
+    border-style:inset;
+}
+#d8{
+    border-style:outset;
+}
+#d9{
+    border-style:hidden;
+}
