@@ -1,0 +1,13 @@
+#h1{
+    border: 2px solid;
+    width: 400px;
+}
+
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    color: white;
+    position: fixed;border-radius: 5px;
+    margin-left: 300px;
+}

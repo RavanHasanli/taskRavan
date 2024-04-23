@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+}
+
+#border{
+
+}
+#h1{
+    background-color: aquamarine;
+    position: absolute;
+    z-index: 3;
+    left: -100px;
+}

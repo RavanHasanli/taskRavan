@@ -1,0 +1,49 @@
+#h1{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(126, 5, 5);
+    text-align: center;
+    color: white;
+    display: inline-block;
+}
+
+#h2{
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    margin-left: 1080px;
+}
+
+#h3{
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+    text-align: center;
+    color: white;
+    margin-left: 600px;
+    margin-top: 300px;
+    margin-bottom: 300px;
+
+}
+
+#h4{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    display: inline-block;
+}
+
+#h5{
+    width: 150px;
+    height: 150px;
+    background-color: purple;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    margin-left: 1080px;
+}

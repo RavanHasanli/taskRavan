@@ -1,0 +1,47 @@
+#h1{
+    width: 900px;
+    height: 900px;
+    border: 1px solid red;
+    position: relative;
+}
+
+#h2{
+    background-color: aquamarine;
+    position: absolute;
+    left: -100px;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    margin: 40px 40px;
+    text-align: center;
+}
+
+#h3{
+    background-color: blue;
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    margin: 300px 40px;
+    text-align: center;
+}
+
+#h4{
+    background-color: brown;
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    margin: 500px 40px;
+    text-align: center;
+}
+
+#h5{
+    background-color: purple;
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    margin: 700px 40px;
+    text-align: center;
+}
